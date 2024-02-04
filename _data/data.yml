@@ -113,7 +113,35 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           - Bullet point
+          - Bullet point    
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
           - Bullet point
+          - Bullet point    
+
+      company: Ericsson, Inc., Richardson, TX
+
+    - role: Network Support Specialist II
+      time: October 1999 - January 2000
+      company: Ericsson, Inc., Richardson, TX
+      details: |
+        Provided support for company LAN and WAN; installed and configured networking equipment; responsible for setting up telecommuting employees.  Highlights include:
+          - Deployed Cisco 2500 series routers to new company campus buildings.
+    - role: Computer Systems Technician III, Telephony
+      time: August 1998 - October 1999
+      company: Ericsson, Inc., Richardson, TX
+      details: |
+        Supported MD110 (PBX), CTI, and Call Center projects for Ericsson and external customers; provided MD110 (PBX) SMDR support for internal billing with Telemate Software.  Highlights include:
+          - Continued Ericsson leadership program representing the department for Change Management group.
+          - Tested and worked on projects with Ericsson's VOIP technology.
+          - Documented existing Voice Product work processes for automated workflow improvements.
     - role: Team Lead - Computer Systems Technician III, Site Services
       time: April 1997 - August 1998
       company: Ericsson, Inc., Richardson, TX
